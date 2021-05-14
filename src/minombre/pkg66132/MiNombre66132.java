@@ -23,6 +23,8 @@ public class MiNombre66132 {
      */
     public static void main(String[] args) {
        
+        encabezados();
+        
         String minombre = "Angel Gabriel Manrero Hidalgo";
         System.out.println("Mi nombre es: "+ minombre);
     }
